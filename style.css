@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f6f3;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #4a2c2a;
+    margin-bottom: 40px;
+}
+
+.qa {
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+}
+
+.qa h2 {
+    color: #6b3e26;
+    margin-bottom: 10px;
+}
+
+.qa p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+audio {
+    width: 100%;
+    margin-top: 10px;
+    outline: none;
+}
+
+.signature {
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.thanks {
+    margin-top: 20px;
+    font-size: 15px;
+    color: #555;
+}
+
+a {
+    color: #6b3e26;
+    text-decoration: none;
+}
